@@ -1,0 +1,10 @@
+# --- scanner folders: ignore everything inside, keep the folders themselves ---
+cards/*
+scan_grids/*
+scanned/*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
